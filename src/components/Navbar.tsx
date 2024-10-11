@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Logo from '../assets/Logo.svg';
 import BlackLogo from '../assets/Black Logo.svg';
 import Call from '../assets/Call.svg';
