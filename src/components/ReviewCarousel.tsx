@@ -12,9 +12,6 @@ function ReviewCarousel() {
     return () => clearInterval(interval);
   }, []);
 
-  const handleDotClick = (index: number) => {
-    setCurrentSlide(index);
-  };
 
   const handlePrevClick = () => {
     setCurrentSlide((prev) => (prev === 0 ? ModelReviews.length - 1 : prev - 1));
