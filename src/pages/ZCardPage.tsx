@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from '../components/Navbar'
 import ZCardPageOne from '../components/ZCard/ZCardPageOne'
 import ZCardPageTwo from '../components/ZCard/ZCardPageTwo'
